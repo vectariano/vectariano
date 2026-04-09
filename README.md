@@ -7,6 +7,7 @@
 ![HTML5](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=blurede)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=blue)
+![Docker](https://img.shields.io/badge/DOCKER-black?style=for-the-badge&logo=docker&logoColor=blue)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=blue)](https://t.me/vectariano15)
